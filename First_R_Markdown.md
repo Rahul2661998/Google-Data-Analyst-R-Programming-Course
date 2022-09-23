@@ -3,14 +3,6 @@ Google data analytics R course
 Rahul Pandey
 2022-09-22
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
-
-## When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
 # R Programming by Google
 
 ## Basic Syntax and operations
@@ -240,7 +232,7 @@ today()
 now()
 ```
 
-    ## [1] "2022-09-23 20:53:38 IST"
+    ## [1] "2022-09-23 21:00:27 IST"
 
 ``` r
 date1<-dmy("12-09-2022")
